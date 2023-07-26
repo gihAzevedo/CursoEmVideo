@@ -8,11 +8,13 @@ Olá, Mundo!
 ~~~~~~~~~
 '''
 
-def mensagem(texto):
-    print('~' * len(texto))
-    print(f'{texto}')
-    print('~' * len(texto))
+
+def escreva(texto):
+    print('~' * (len(texto)+4))
+    print(f'  {texto}')
+    print('~' * (len(texto)+4))
 
 
-recado = str(input('Digite sua mensagem: '))
-mensagem(recado)
+#Programa Principal
+mensagem = str(input('Digite sua mensagem: '))
+escreva(mensagem)
