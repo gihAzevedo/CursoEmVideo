@@ -10,3 +10,8 @@ def aumentar(preco, porcentagem):
 def diminuir(preco, porcentagem):
     r = preco - (preco * porcentagem/ 100)
     return r
+
+def moeda(preco):
+    conversao = str(f'R${preco:.2f}')
+    conversao = conversao.replace('.', ',')
+    return conversao

@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df0ffd10-eed5-4452-95f0-7e76d0c2c851" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python/Exercicios/ex107.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Exercicios/modulos/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Exercicios/modulos/moeda/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CursoEmVideo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CursoEmVideo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Exercicios/ex108.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Exercicios/modulos/moeda/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Exercicios/modulos/moeda/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +26,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Python/Exercicios/ex107.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Python/Exercicios/ex108.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Python/Exercicios/modulos/moeda/__init__.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -46,7 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.ex107">
+  <component name="RunManager" selected="Python.ex108">
     <configuration name="ex107" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,6 +58,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Exercicios/ex107.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex108" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoEmVideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Exercicios/ex108.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex108" />
         <item itemvalue="Python.ex107" />
         <item itemvalue="Python.numeros" />
       </list>
