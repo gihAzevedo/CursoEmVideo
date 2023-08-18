@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df0ffd10-eed5-4452-95f0-7e76d0c2c851" name="Changes" comment="" />
+    <list default="true" id="df0ffd10-eed5-4452-95f0-7e76d0c2c851" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Python/Exercicios/ex110/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Exercicios/ex110/teste.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +28,8 @@
     <setting file="file://$PROJECT_DIR$/Python/Exercicios/ex108/moeda.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Python/Exercicios/ex109.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Python/Exercicios/ex109/moeda/__init__.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Python/Exercicios/ex110/moeda.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Python/Exercicios/ex110/teste.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Python/Exercicios/modulos/moeda/__init__.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -34,44 +40,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/azevegde/Documents/GitHub/CursoEmVideo/Python/Exercicios/ex108&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/azevegde/Documents/GitHub/CursoEmVideo/Python/Exercicios/ex110",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\azevegde\Documents\GitHub\CursoEmVideo\Python\Exercicios\ex110" />
       <recent name="C:\Users\azevegde\Documents\GitHub\CursoEmVideo\Python\Exercicios\ex108" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\azevegde\Documents\GitHub\CursoEmVideo\Python\Exercicios\ex107" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex109">
-    <configuration name="ex108" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoEmVideo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Exercicios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Exercicios/ex108.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.teste (3)">
     <configuration name="ex109" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,6 +71,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Exercicios/ex109.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="moeda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoEmVideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Exercicios/ex110" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Exercicios/ex110/moeda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="teste (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Exercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Exercicios/ex110" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\azevegde\Documents\GitHub\CursoEmVideo\Python\Exercicios\ex107\teste.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Exercicios/ex110/teste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.teste (3)" />
+        <item itemvalue="Python.moeda" />
         <item itemvalue="Python.ex109" />
         <item itemvalue="Python.teste (2)" />
         <item itemvalue="Python.teste (1)" />
-        <item itemvalue="Python.ex108" />
-        <item itemvalue="Python.teste" />
       </list>
     </recent_temporary>
   </component>
