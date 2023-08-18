@@ -4,4 +4,4 @@ valor retornado por elas vai  ser ou não formatado pela função moeda(), desen
 import moeda
 
 p = float(input('Digite o preço: R$'))
-moeda.resumo(p)
+moeda.resumo(p, 20, 12)
