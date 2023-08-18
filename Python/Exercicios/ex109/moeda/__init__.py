@@ -1,26 +1,15 @@
-def moeda(preco):
-    conversao = str(f'R${preco:.2f}')
-    conversao = conversao.replace('.', ',')
-    return conversao
+def moeda(preco=0, moeda='R$'):
+ return f'{moeda}{preco:.2f}'.replace('.', ',')
 
-
-def metade(preco, formatado):
-    m = preco / 2
-    if formatado == True:
-        m = moeda(m)
-    return m
-def dobro(preco, formatado):
-    d = preco * 2
-    if formatado == True:
-        d = moeda(d)
-    return d
-def aumentar(preco, porcentagem, formatado):
-    a = preco + (preco * porcentagem / 100)
-    if formatado == True:
-        a = moeda(a)
-    return a
-def diminuir(preco, porcentagem, formatado):
-    r = preco - (preco * porcentagem/ 100)
-    if formatado == True:
-        r = moeda(r)
-    return r
+def metade(preco, formatado = False):
+    res = preco / 2
+    return res if formatado is False else moeda(res)
+def dobro(preco, formatado = False):
+    res = preco * 2
+    return res if formatado is False else moeda(res)
+def aumentar(preco, porcentagem, formatado = False):
+    res = preco + (preco * porcentagem / 100)
+    return res if formatado is False else moeda(res)
+def diminuir(preco, porcentagem, formatado = False):
+    res = preco - (preco * porcentagem/ 100)
+    return res if formatado is False else moeda(res)
