@@ -8,6 +8,14 @@ def dobro(preco, formatado = False):
     res = preco * 2
     return res if formatado is False else moeda(res)
 def aumentar(preco, porcentagem, formatado = False):
+    '''
+     -> Calcula o aumento de um determinado preço,
+    retornando o resultado com ou sem formatação.
+    :param preco: o preço que se quer reajustar
+    :param porcentagem: qual é a porcentagem do aumento
+    :param formatado: quer a saída formatada ou não?
+    :return: o valor reajustado, com ou sem formato.
+    '''
     res = preco + (preco * porcentagem / 100)
     return res if formatado is False else moeda(res)
 def diminuir(preco, porcentagem, formatado = False):
