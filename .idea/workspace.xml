@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df0ffd10-eed5-4452-95f0-7e76d0c2c851" name="Changes" comment="" />
+    <list default="true" id="df0ffd10-eed5-4452-95f0-7e76d0c2c851" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Python/Exercicios/ex112/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Exercicios/ex112/utilidadescev/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Exercicios/ex112/utilidadescev/dado/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Exercicios/ex112/utilidadescev/moeda/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +61,7 @@
       <recent name="C:\Users\azevegde\Documents\GitHub\CursoEmVideo\Python\Exercicios\ex107" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.teste">
+  <component name="RunManager" selected="Python.teste (1)">
     <configuration name="ex109" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teste (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="teste (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Exercicios/ex108" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Exercicios/ex112" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Exercicios/ex108/teste.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Exercicios/ex112/teste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.teste (1)" />
         <item itemvalue="Python.teste" />
         <item itemvalue="Python.teste (3)" />
         <item itemvalue="Python.moeda" />
         <item itemvalue="Python.ex109" />
-        <item itemvalue="Python.teste (2)" />
       </list>
     </recent_temporary>
   </component>
