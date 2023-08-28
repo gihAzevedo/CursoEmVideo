@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df0ffd10-eed5-4452-95f0-7e76d0c2c851" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python/pythonteste/aula23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Exercicios/ex113.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/pythonteste/aula23.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/pythonteste/aula23.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +31,7 @@
     <setting file="file://$PROJECT_DIR$/Python/Exercicios/ex110/moeda.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Python/Exercicios/ex110/teste.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Python/Exercicios/ex111/teste.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Python/Exercicios/ex113.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Python/Exercicios/modulos/moeda/__init__.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Python/pythonteste/aula23.py" root0="SKIP_INSPECTION" />
   </component>
@@ -59,7 +61,7 @@
       <recent name="C:\Users\azevegde\Documents\GitHub\CursoEmVideo\Python\Exercicios\ex107" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.aula23">
+  <component name="RunManager" selected="Python.ex113">
     <configuration name="aula23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="moeda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex113" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Exercicios/ex110" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Exercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Exercicios/ex110/moeda.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Exercicios/ex113.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex113" />
         <item itemvalue="Python.aula23" />
         <item itemvalue="Python.teste (1)" />
         <item itemvalue="Python.teste" />
         <item itemvalue="Python.teste (3)" />
-        <item itemvalue="Python.moeda" />
       </list>
     </recent_temporary>
   </component>
