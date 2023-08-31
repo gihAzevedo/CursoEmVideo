@@ -1,5 +1,3 @@
-nome = input ('Qual é o seu nome? ')
-idade = input ('Qual é a sua idade? ')
-peso = input ('Qual é o seu peso? ')
-print(nome, idade, peso)
- 
+num = [3, 6, 4, 1]
+for n1, n2 in enumerate(num):
+    print(n1 + n2)
